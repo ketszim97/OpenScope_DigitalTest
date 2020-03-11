@@ -1,0 +1,5 @@
+/History/*
+/__Previews/*
+/component_libraries/
+*.DS_Store
+*.htm
