@@ -1,5 +1,6 @@
 /History/*
 /__Previews/*
 /component_libraries/
+/Project*
 *.DS_Store
 *.htm
