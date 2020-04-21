@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [OpenScope_DigitalTest.PrjPcb]
+   Generated File[DigitalTest-RoundHoles.TXT]
+   Generated File[DigitalTest-SlotHoles.TXT]
+   Generated File[DigitalTest.LDP]
+   Generated File[DigitalTest.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 2:21:48 PM On 2020-04-21
