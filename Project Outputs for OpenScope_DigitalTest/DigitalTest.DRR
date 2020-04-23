@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: DigitalTest.PcbDoc   2020-04-21  2:21:48 PM
+NCDrill File Report For: DigitalTest.PcbDoc   2020-04-22  5:36:14 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -10,7 +10,7 @@ Tool       Hole Size               Hole Tolerance               Hole Type       
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      8mil (0.2mm)                                              Round             4         PTH        0.00inch (0.00mm)
 T2      8mil (0.203mm)                                            Round             27        PTH        0.00inch (0.00mm)
-T3      12mil (0.305mm)                                           Round             83        PTH        0.00inch (0.00mm)
+T3      12mil (0.305mm)                                           Round             85        PTH        0.00inch (0.00mm)
 T4      20mil (0.5mm)                                             Slot              2         PTH        0.00inch (0.00mm)
 T5      25mil (0.635mm)                                           Round             2         PTH        0.00inch (0.00mm)
 T6      28mil (0.711mm)                                           Round             9         PTH        0.00inch (0.00mm)
@@ -22,6 +22,6 @@ T11     63mil (1.6mm)                                             Round         
 T12     16mil (0.4mm)                                             Round             20        NPTH       0.00inch (0.00mm)
 T13     83mil (2.1mm)                                             Slot              1         NPTH       0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              216
+Totals                                                                              218
 
 Total Processing Time (hh:mm:ss) : 00:00:00

@@ -2,67 +2,6 @@
 FileName = DigitalTest.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : DigitalTest.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : DigitalTest.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : DigitalTest.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D23
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : DigitalTest.GTL
 
@@ -72,7 +11,7 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
+    D11
     D63
     D64
     D65
@@ -124,39 +63,7 @@ Used DCodes :
     D111
     D112
     D113
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : DigitalTest.GP1
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
     D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
-    D133
-    D134
 *************************************************************
 
 *************************************************************
@@ -169,12 +76,11 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
+    D11
     D63
     D64
-    D69
-    D93
-    D97
+    D70
+    D95
     D98
     D99
     D100
@@ -191,6 +97,7 @@ Used DCodes :
     D111
     D112
     D113
+    D114
 *************************************************************
 
 *************************************************************
@@ -252,6 +159,48 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Solder
+      File : DigitalTest.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DigitalTest.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
 Generating : PWR
       File : DigitalTest.GP2
 
@@ -261,13 +210,47 @@ Generating : PWR
 
 
 Used DCodes :
-    D10
-    D114
+    D11
     D115
     D116
     D117
+    D118
+    D120
+    D121
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D136
+    D137
+    D138
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : DigitalTest.GP1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D115
+    D116
+    D117
+    D118
     D119
     D120
+    D121
     D122
     D123
     D124
@@ -280,8 +263,26 @@ Used DCodes :
     D131
     D132
     D133
+    D134
     D135
-    D136
-    D137
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DigitalTest.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
 *************************************************************
 

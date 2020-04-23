@@ -615,67 +615,98 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for OpenScope_DigitalTest\Design Rule Check - DigitalTest.html
-DItemRevisionGUID=
+[ProjectVariant1]
+UniqueID=441F42EF-C8C6-4868-9A0B-1D3B4FD4253E
+Description=No ADC
+AllowFabrication=0
+ParameterCount=0
+VariationCount=17
+Variation1=Designator=U4|UniqueId=\JNESCATE\LPQRFSYC|Kind=1|AlternatePart= 
+Variation2=Designator=Y1|UniqueId=\JNESCATE\PLHIHZPW|Kind=1|AlternatePart= 
+Variation3=Designator=C25|UniqueId=\JNESCATE\EJEJVMKL|Kind=1|AlternatePart= 
+Variation4=Designator=C33|UniqueId=\JNESCATE\MBEZODKU|Kind=1|AlternatePart= 
+Variation5=Designator=C31|UniqueId=\JNESCATE\VCFTOSTD|Kind=1|AlternatePart= 
+Variation6=Designator=C29|UniqueId=\JNESCATE\INKQRPZX|Kind=1|AlternatePart= 
+Variation7=Designator=C27|UniqueId=\JNESCATE\ATSDASXU|Kind=1|AlternatePart= 
+Variation8=Designator=C26|UniqueId=\JNESCATE\CHOXIPZF|Kind=1|AlternatePart= 
+Variation9=Designator=C32|UniqueId=\JNESCATE\TNBPEHKW|Kind=1|AlternatePart= 
+Variation10=Designator=C28|UniqueId=\JNESCATE\EGRGQXSR|Kind=1|AlternatePart= 
+Variation11=Designator=C30|UniqueId=\JNESCATE\XPCXMMQO|Kind=1|AlternatePart= 
+Variation12=Designator=C34|UniqueId=\JNESCATE\SQRUPNOW|Kind=1|AlternatePart= 
+Variation13=Designator=R1|UniqueId=\JNESCATE\YQFVQMCZ|Kind=1|AlternatePart= 
+Variation14=Designator=C35|UniqueId=\JNESCATE\AGUAQUZT|Kind=1|AlternatePart= 
+Variation15=Designator=C36|UniqueId=\JNESCATE\BYUEYRVD|Kind=1|AlternatePart= 
+Variation16=Designator=J6|UniqueId=\JNESCATE\TXQGKYYY|Kind=1|AlternatePart= 
+Variation17=Designator=J7|UniqueId=\JNESCATE\VQCFEKFP|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
-[GeneratedDocument2]
+[ProjectVariant2]
+UniqueID=D0A4BE4E-FBD9-4CB8-9617-9D235D58CE58
+Description=ADC Fitted
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=Y2|UniqueId=\JNESCATE\NIWECCYE|Kind=1|AlternatePart= 
+Variation2=Designator=C58|UniqueId=\JNESCATE\JKDWJPKI|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.REP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for OpenScope_DigitalTest\DigitalTest.RUL
 DItemRevisionGUID=
 
@@ -866,6 +897,8 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration10_Name1=OutputConfigurationParameter1
+Configuration10_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType11=SimView Print
 OutputName11=SimView Prints
 OutputDocumentPath11=
