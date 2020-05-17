@@ -2,73 +2,32 @@
 FileName = DigitalTest.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : DigitalTest.GTL
+Generating : Bottom Overlay
+      File : DigitalTest.GBO
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D11
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : DigitalTest.GBL
+Generating : Keep-Out Layer
+      File : DigitalTest.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DigitalTest.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -76,28 +35,23 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D11
-    D63
-    D64
-    D70
-    D95
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
+    D24
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
 *************************************************************
 
 *************************************************************
@@ -159,10 +113,27 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : DigitalTest.GBS
+Generating : Top Overlay
+      File : DigitalTest.GTO
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DigitalTest.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -170,34 +141,28 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D24
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : DigitalTest.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
     D11
+    D63
+    D64
+    D70
+    D93
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
 *************************************************************
 
 *************************************************************
@@ -268,21 +233,67 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : DigitalTest.GTO
+Generating : Top Layer
+      File : DigitalTest.GTL
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
     D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
 *************************************************************
 
